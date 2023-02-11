@@ -15,6 +15,7 @@ Clone the repo or download the script and run:
 ```
 python3 main.py
 ```
+- If you are on Windows 8.1+ you can use the executable file.
 ## Usage❓
 Open .exe/.py file, write number of your selected ISO and wait for it to download!
 
