@@ -23,6 +23,8 @@ Open .exe/.py file, write number of your selected ISO and wait for it to downloa
 ## Disclaimers❗
 - I am not responsible for slow download speeds etc. Files are not hosted by me.
 - You can find links to files what i used in [sources.md](https://github.com/matejmajny/getwiniso/blob/main/sources.md) file.
+- I **do not provide** any product keys or activation scripts, go figure that out yourself.
+- All of the isos are without any edits.
 
 ## Contributing 🔍
 If you have found a bug or you have suggestion for update/new os feel free to contribute or open an [issue](https://github.com/matejmajny/getwiniso/issues/new/choose)
