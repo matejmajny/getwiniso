@@ -24,7 +24,7 @@ Open .exe/.py file, write number of your selected ISO and wait for it to downloa
 - You can find links to files what i used in [sources.md](https://github.com/matejmajny/getwiniso/blob/main/sources.md) file.
 
 ## Contributing 🔍
-We welcome contributions to this script. If you have any suggestions or improvements, please feel free to open a pull request.
+If you have found a bug or you have suggestion for update/new os feel free to contribute or open an [issue](https://github.com/matejmajny/getwiniso/issues/new/choose)
 
 ## License 📜
 This script is released under the GPT-3.0 License.
