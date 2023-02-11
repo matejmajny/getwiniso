@@ -8,7 +8,7 @@ Script to download ISO files from [Archive.org](https://archive.org)
 
 ## Requirements 📦
 - Python 3.x
-- Windows 8.1 or above **or** some linux distro
+- Windows 8.1+ or linux distro (Termux works too)
 
 ## Installation 💾
 Clone the repo or download the script and run:
@@ -31,3 +31,5 @@ If you have found a bug or you have suggestion for update/new os feel free to co
 
 ## License 📜
 This script is released under the GPT-3.0 License.
+
+- thanks @flandolf for some ReadMe inspiration
