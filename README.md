@@ -32,4 +32,5 @@ If you have found a bug or you have suggestion for update/new os feel free to co
 ## License 📜
 This script is released under the GPT-3.0 License.
 
+## Side note ✒️
 - thanks @flandolf for some ReadMe inspiration
