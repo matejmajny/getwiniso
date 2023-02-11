@@ -4,7 +4,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/matejmajny/adb-installer?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/matejmajny/adb-installer?style=for-the-badge)    
 
-Script to download ISO files from Archive.org
+Script to download ISO files from (Archive.org)[https://archive.org]
 
 ## Requirements 📦
 - Python 3.x
