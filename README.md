@@ -6,6 +6,10 @@
 
 Script to download ISO files from [Archive.org](https://archive.org)
 
+## About 📝
+- built in download function
+- supports Windows XP+ windowses (except the Vista and 8 <--- only 8, not 8.1)
+
 ## Requirements 📦
 - Python 3.x
 - Windows 8.1+ or linux distro (Termux works too)
