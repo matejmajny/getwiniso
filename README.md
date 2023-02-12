@@ -11,7 +11,7 @@ Script to download ISO files from [Archive.org](https://archive.org)
 - Windows 8.1+ or linux distro (Termux works too)
 
 ## Installation 💾
-Clone the repo or download the script and run:
+Clone the repo or use GitHub download function and run:
 ```
 python3 main.py
 ```
