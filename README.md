@@ -34,7 +34,7 @@ Open .exe/.py file, write number of your selected ISO and wait for it to downloa
 If you have found a bug or you have suggestion for update/new os feel free to contribute or open an [issue](https://github.com/matejmajny/getwiniso/issues/new/choose)
 
 ## License 📜
-This script is released under the GPT-3.0 License.
+This script is released under the GPL-3.0 License.
 
 ## Side note ✒️
 Thanks [@flandolf](https://github.com/flandolf) for some ReadMe inspiration
